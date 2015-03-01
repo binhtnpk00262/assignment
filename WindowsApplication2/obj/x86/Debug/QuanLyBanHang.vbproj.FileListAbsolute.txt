@@ -1,0 +1,16 @@
+C:\Users\NhaNgheo\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+C:\Users\NhaNgheo\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+C:\Users\NhaNgheo\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+C:\Users\NhaNgheo\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\NhaNgheo\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\NhaNgheo\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\NhaNgheo\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\NhaNgheo\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frm_chitiethd.resources
+C:\Users\NhaNgheo\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmquanlyhanghoa.resources
+C:\Users\NhaNgheo\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frmkhachhang.resources
+C:\Users\NhaNgheo\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frm_hoadon.resources
+C:\Users\NhaNgheo\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+C:\Users\NhaNgheo\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\NhaNgheo\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\NhaNgheo\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frm_quanlychung.resources
+C:\Users\NhaNgheo\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frm_Lienhe.resources
